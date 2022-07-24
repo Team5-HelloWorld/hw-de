@@ -1,8 +1,8 @@
 # hw-de
 a Data Engineering Repository of HelloWorld
 <br>
-
-<b>Keyword
+<br>
+<b>Keyword<b>
 Data ETL <br>
 Data ETL batch with Airflow<br>
 NLP modeling : review rate prediction model (GRU model)<br>

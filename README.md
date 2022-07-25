@@ -3,21 +3,17 @@ This is a Data ETL & ML modeling/serving codes repository of Team5-HelloWorld.<b
 
 ![helloworld_team_arch-Copy of Page-1](https://user-images.githubusercontent.com/59957202/180684538-11f7ee50-1f05-41fa-84be-644ae95b971a.jpg)
 
-My works in this project were<br>
+### My works in this project were<br>
 - Data ETL <br>
 - Data ETL batch <br>
 - NLP modeling (GRU model)<br>
 - Model serving <br>
-## My Task on this Project
-<br>
-<br>
-<b>Keywords</b>
 
 
-## Programming Tools
-| Plugin | README |
-| ------ | ------ |
-
+### Programming Tools
+| Work | Server | Tools |
+| ------ | ------ | ------ |
+| Data ETL | AWS ec2 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)   |
 
 
 
